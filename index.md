@@ -7,7 +7,9 @@
 &nbsp;
 
 ## resources
-* [tooling](resources/tooling)
+* [reconnaisance](resources/recon)
+* [client/server-side](resources/web)
+* [binary exploitation](resources/binex)
 
 &nbsp;
 
